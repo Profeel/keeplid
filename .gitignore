@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Xcode & SwiftPM
+/.build
+/Packages
+xcuserdata/
+DerivedData/
+.swiftpm/configuration/registries.json
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+.netrc
+
+# Built App & Archives
+KeepLid.app/
+*.zip
+*.tar.gz
+
+# Local State & Config
+.keeplid/
