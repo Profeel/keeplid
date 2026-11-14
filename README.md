@@ -5,6 +5,23 @@ KeepLid 是专为 Apple Silicon / macOS 设计的独立原生菜单栏应用与�
 
 ---
 
+## 📸 界面与使用效果
+
+<table>
+  <tr>
+    <td align="center" width="44%">
+      <strong>原生菜单栏控制面板</strong><br/><br/>
+      <img src="docs/screenshots/menubar-ui.png" alt="KeepLid 菜单栏控制面板" width="320" />
+    </td>
+    <td align="center" width="56%">
+      <strong>CLI 状态监测与 Wi-Fi 诊断</strong><br/><br/>
+      <img src="docs/screenshots/cli-usage.png" alt="KeepLid CLI 使用效果" width="480" />
+    </td>
+  </tr>
+</table>
+
+---
+
 ## ⚡ 核心功能与技术突破
 
 ### 1. 彻底解决合盖断网（反向溯源修复）
